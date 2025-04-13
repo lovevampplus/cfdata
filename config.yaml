@@ -138,3 +138,4 @@ github-proxy: "https://github.138543.xyz/"
 # github 链接可自己添加ghproxy使用；订阅链接支持 HTTP_PROXY HTTPS_PROXY 环境变量加速拉取
 sub-urls:
 - https://lovewhore.zone.id/123321?b64
+- https://raw.githubusercontent.com/lovevampplus/cfdata/refs/heads/main/test.txt
