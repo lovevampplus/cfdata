@@ -1,0 +1,32 @@
+http://95.31.7.139:443#大狗熊
+socks5://lzj:lzj@edtsocks.lzj.pp.ua:14041
+https://174.139.126.8:443#US 
+https://15.157.75.132:443#CA 
+https://185.235.0.2:443#UK
+25.6.22 CM
+socks5://128.140.46.169:13482#AU Sydney AS9443 VOCUS PTY LTD
+socks5://128.140.46.169:40775#CA Toronto AS812 Rogers Communications Canada Inc. [住宅IP]
+socks5://185.93.89.171:16020#DE Düsseldorf AS51167 Contabo GmbH
+socks5://128.140.46.169:28227#DE Mannheim AS3209 Vodafone GmbH [住宅IP]
+socks5://128.140.46.169:28227#DE Pforzheim AS3209 Vodafone GmbH [住宅IP]
+socks5://128.140.46.169:26728#ES Valencia AS57269 DIGI SPAIN TELECOM S.L. [住宅IP]
+socks5://128.140.46.169:23057#FR Genève AS12322 Free SAS [住宅IP]
+socks5://46.105.105.223:55303#FR Lille AS16276 OVH SAS
+socks5://46.105.105.223:34293#FR Lille AS16276 OVH SAS
+socks5://46.105.105.223:21130#FR Lille AS16276 OVH SAS
+socks5://46.105.105.223:41448#FR Lille AS16276 OVH SAS
+socks5://128.140.46.169:57503#GB Birmingham AS206067 Hutchison 3G UK Limited [住宅IP]
+socks5://128.140.46.169:36815#GB London AS5607 Sky UK Limited [住宅IP]
+socks5://128.140.46.169:20468#GB Mendip AS2856 Unknown [住宅IP]
+socks5://45.140.143.77:18080#NL Amsterdam AS212477 RoyaleHosting BV
+socks5://128.140.46.169:36835#US Augusta AS7922 Comcast Cable Communications, LLC [住宅IP]
+socks5://128.140.46.169:59893#US Cleveland AS10796 Charter Communications Inc [住宅IP]
+socks5://128.140.46.169:40427#US Fremont AS7922 Comcast Cable Communications, LLC [住宅IP]
+socks5://128.140.46.169:40427#US Germantown AS21928 T-Mobile USA, Inc. [住宅IP]
+socks5://128.140.46.169:38163#US Germantown AS7018 AT&T Enterprises, LLC [住宅IP]
+socks5://128.140.46.169:36835#US New York City AS21928 T-Mobile USA, Inc. [住宅IP]
+socks5://128.140.46.169:38163#US Tampa AS33363 Charter Communications, Inc [住宅IP]
+socks5://128.140.46.169:59651#US Washington AS7922 Comcast Cable Communications, LLC [住宅IP]
+
+
+
