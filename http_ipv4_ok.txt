@@ -1,0 +1,140 @@
+194.164.174.115:5222:http | : | In/Out: Spain-Madrid[商企IP] | Dc: Ionos se | Status: ✅
+38.180.9.158:4422:http | : | In/Out: Singapore-Singapore[商企IP] | Dc: 3nt.com | Status: ✅
+79.76.39.99:5001:http | : | In/Out: Sweden-Stockholm[商企IP] | Dc: Oracle cloud | Status: ✅
+93.93.119.19:8002:http | : | In/Out: Spain-Aragon Zaragoza[商企IP] | Dc: Ionos se | Status: ✅
+103.180.117.14:8191:http | : | In/Out: Indonesia[商企IP] | Dc: Cv tepian teknologi | Status: ✅
+103.180.117.10:8191:http | : | In/Out: Indonesia[商企IP] | Dc: Cv tepian teknologi | Status: ✅
+34.87.109.175:9443:http | : | In/Out: Singapore-Singapore[商企IP] | Dc: Googlecloud | Status: ✅
+34.143.162.66:9443:http | : | In/Out: Singapore-Singapore[商企IP] | Dc: Googlecloud | Status: ✅
+35.185.189.242:9443:http | : | In/Out: Singapore-Singapore[商企IP] | Dc: Googlecloud | Status: ✅
+149.28.154.82:8812:http | : | In/Out: Singapore-Singapore[商企IP] | Dc: Constant.com | Status: ✅
+66.42.55.231:8812:http | : | In/Out: Singapore-Singapore[商企IP] | Dc: Sgp_vultr_cust | Status: ✅
+45.8.114.19:3334:http | : | In/Out: Japan-Osaka Fu Osaka[商企IP] | Dc: Greencloud llc | Status: ✅
+149.28.141.211:8812:http | : | In/Out: Singapore-Singapore[商企IP] | Dc: Constant.com | Status: ✅
+150.107.31.212:8066:http | : | In/Out: Thailand-Khon Kaen Bangkok[商企IP] | Dc: Popidc | Status: ✅
+103.59.44.213:2101:http | : | In/Out: Indonesia[商企IP] | Dc: Cv gisting trans network | Status: ✅
+150.241.96.238:8899:http | : | In/Out: Finland-Uusimaa Helsinki[商企IP] | Dc: Ace cust | Status: ✅
+43.204.145.11:8088:http | : | In/Out: India-Maharashtra Mumbai[商企IP] | Dc: Amazon aws | Status: ✅
+163.5.254.203:49152:http | : | In/Out: France-Île-de-France Paris[商企IP] | Dc: Ipxo.com | Status: ✅
+37.187.124.25:8187:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+95.216.73.28:49152:http | : | In/Out: Finland-Uusimaa Helsinki[商企IP] | Dc: Hetzner.com | Status: ✅
+46.105.50.156:30006:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.156:30005:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.156:30003:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.156:30002:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+77.239.125.141:10058:http | : | In/Out: Russia-Москва Moscow[商企IP] | Dc: Aeza group ltd | Status: ✅
+46.105.50.122:30005:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.122:30002:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.122:30006:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+51.195.218.60:8428:http | : | In/Out: United Kingdom-England London[商企IP] | Dc: Ovh ltd | Status: ✅
+65.21.238.176:49152:http | : | In/Out: Finland-Uusimaa Helsinki[商企IP] | Dc: Hetzner.com | Status: ✅
+192.227.193.207:4050:http | : | In/Out: United States-Texas Dallas[商企IP] | Dc: Hostpapa | Status: ✅
+193.148.16.211:8037:http | : | In/Out: Japan-Tokyo To Tokyo[商企IP] | Dc: M247 europe srl | Status: ✅
+46.105.50.131:30003:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.131:30002:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.131:30006:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.131:30005:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.220:30002:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.220:30005:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.180:30005:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.180:30003:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+46.105.50.180:30006:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh sas | Status: ✅
+185.212.58.19:10081:http | : | In/Out: Japan-Osaka Fu Osaka[商企IP] | Dc: It7 networks inc | Status: ✅
+95.217.148.122:49152:http | : | In/Out: Finland-Uusimaa Helsinki[商企IP] | Dc: Hetzner.com | Status: ✅
+65.108.101.172:49152:http | : | In/Out: Finland-Uusimaa Helsinki[商企IP] | Dc: Hetzner.com | Status: ✅
+34.170.97.88:3389:http | : | In/Out: United States-Nebraska Omaha[商企IP] | Dc: Googlecloud | Status: ✅
+217.142.131.123:50001:http | : | In/Out: South Korea-서울특별시 Seoul[商企IP] | Dc: Oracle cloud | Status: ✅
+137.220.50.78:2077:http | : | In/Out: United States-Texas Dallas[商企IP] | Dc: Constant.com | Status: ✅
+23.95.112.143:6005:http | : | In/Out: United States-New York Buffalo[商企IP] | Dc: Hostpapa | Status: ✅
+139.162.77.189:18182:http | : | In/Out: Japan-Tokyo To Tokyo[商企IP] | Dc: Linode.akamai.com | Status: ✅
+185.82.99.101:92:http | : | In/Out: Lebanon-Liban-Nord Tripoli[商企IP] | Dc: Customers pool2 | Status: ✅
+49.212.85.31:5400:http | : | In/Out: Japan-Tokyo To Tokyo[商企IP] | Dc: Sakura internet inc. | Status: ✅
+80.110.46.203:13000:http | : | In/Out: Austria-Wien Vienna[商企IP] | Dc: Magenta telekom gmbh | Status: ✅
+107.174.144.209:9070:http | : | In/Out: United States-New York Buffalo[商企IP] | Dc: Hostpapa | Status: ✅
+144.76.200.55:8119:http | : | In/Out: Germany-Sachsen Plauen[商企IP] | Dc: Hetzner online gmbh | Status: ✅
+158.101.27.52:5280:http | : | In/Out: United States-Arizona Phoenix[商企IP] | Dc: Oracle cloud | Status: ✅
+71.19.247.226:31000:http | : | In/Out: Canada-British Columbia Surrey[商企IP] | Dc: Esecuredata | Status: ✅
+154.12.33.168:6005:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Netlab | Status: ✅
+85.214.200.120:3456:http | : | In/Out: Germany-Hessen Frankfurt am Main[商企IP] | Dc: Strato ag | Status: ✅
+154.12.59.102:6005:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Netlab | Status: ✅
+164.132.155.232:50015:http | : | In/Out: France-Hauts-de-France Lille[商企IP] | Dc: Ovh hispano | Status: ✅
+154.12.33.156:6005:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Netlab | Status: ✅
+154.12.33.155:6005:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Netlab | Status: ✅
+103.39.72.58:8990:http | : | In/Out: Indonesia-Jakarta[商企IP] | Dc: Pt teknologi gema informasi | Status: ✅
+129.153.194.109:8088:http | : | In/Out: United States-Arizona Phoenix[商企IP] | Dc: Oracle cloud | Status: ✅
+15.204.193.99:53119:http | : | In/Out: United States-Virginia Arlington[商企IP] | Dc: Ovh us llc | Status: ✅
+15.204.193.71:53119:http | : | In/Out: United States-Virginia Arlington[商企IP] | Dc: Ovh us llc | Status: ✅
+89.150.40.26:12408:http | : | In/Out: Estonia-Harju maakond Tallinn[商企IP] | Dc: Hz hosting ltd | Status: ✅
+141.147.40.88:8887:http | : | In/Out: Germany-Hessen Frankfurt am Main[商企IP] | Dc: Oracle cloud | Status: ✅
+129.80.238.83:444:http | : | In/Out: United States-Maryland Germantown[商企IP] | Dc: Oracle cloud | Status: ✅
+95.216.142.137:1337:http | : | In/Out: Finland-Uusimaa Helsinki[商企IP] | Dc: Hetzner online gmbh | Status: ✅
+129.80.217.21:444:http | : | In/Out: United States-Maryland Germantown[商企IP] | Dc: Oracle cloud | Status: ✅
+167.235.53.110:9009:http | : | In/Out: Germany-Bavaria Nürnberg[商企IP] | Dc: Hetzner online gmbh | Status: ✅
+54.234.171.201:50003:http | : | In/Out: United States-Maryland Germantown[商企IP] | Dc: Amazon aws | Status: ✅
+138.2.239.213:10010:http | : | In/Out: United States-California San Jose[商企IP] | Dc: Oracle cloud | Status: ✅
+192.210.193.193:7443:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Hostpapa | Status: ✅
+20.249.195.122:47000:http | : | In/Out: South Korea-서울특별시 Seoul[商企IP] | Dc: Microsoft corporation | Status: ✅
+45.15.23.158:12222:http | : | In/Out: Romania-Bucureşti Bucharest[商企IP] | Dc: Virtono networks srl | Status: ✅
+92.240.243.117:81:http | : | In/Out: Kazakhstan-Almaty[商企IP] | Dc: Anna revenko trading as ip.rent | Status: ✅
+107.174.159.117:12202:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Hostpapa | Status: ✅
+129.213.150.234:8500:http | : | In/Out: United States-Maryland Germantown[商企IP] | Dc: Oracle cloud | Status: ✅
+150.241.124.108:49152:http | : | In/Out: Lithuania-Vilniaus apskritis Vilnius[商企IP] | Dc: Ace cust | Status: ✅
+89.40.142.197:8881:http | : | In/Out: Italy-Emilia-Romagna Ravenna[商企IP] | Dc: Virtual solution srl | Status: ✅
+103.153.149.59:8034:http | : | In/Out: Indonesia-Boyolangu[商企IP] | Dc: Pt jaringan sarana nusantara | Status: ✅
+104.168.140.149:8890:http | : | In/Out: United States-Washington Seattle[商企IP] | Dc: Hostwinds llc. | Status: ✅
+146.235.197.151:50001:http | : | In/Out: United States-California San Jose[商企IP] | Dc: Oracle cloud | Status: ✅
+162.251.93.196:49152:http | : | In/Out: United States-Arkansas Hot Springs[商企IP] | Dc: G network llc | Status: ✅
+13.201.182.110:8899:http | : | In/Out: India-Maharashtra Mumbai[商企IP] | Dc: Amazon technologies inc. | Status: ✅
+146.255.188.101:49152:http | : | In/Out: The Netherlands-Overijssel Zwolle[商企IP] | Dc: Alex group llc | Status: ✅
+82.152.163.143:34567:http | : | In/Out: Hong Kong-Central and Western Hong Kong[商企IP] | Dc: Hytron.io | Status: ✅
+85.208.51.228:1443:http | : | In/Out: Germany-Nordrhein-Westfalen Düsseldorf[商企IP] | Dc: Contabo gmbh | Status: ✅
+45.91.200.189:49152:http | : | In/Out: The Netherlands-North Holland Amsterdam[商企IP] | Dc: Podaon sia | Status: ✅
+185.150.138.196:50000:http | : | In/Out: United States-Utah Salt Lake City[商企IP] | Dc: Bage cloud llc | Status: ✅
+206.245.212.86:6005:http | : | In/Out: United Kingdom-England Southampton[商企IP] | Dc: Vorboss limited | Status: ✅
+146.103.25.130:49152:http | : | In/Out: Lithuania-Vilniaus apskritis Vilnius[商企IP] | Dc: Space hosting | Status: ✅
+103.161.62.176:8071:http | : | In/Out: Indonesia-Jakarta[商企IP] | Dc: Pt. union routelink communication | Status: ✅
+103.152.7.33:8686:http | : | In/Out: Indonesia-Bali Denpasar[商企IP] | Dc: Pemerintah kabupaten klungkung | Status: ✅
+103.152.7.17:8686:http | : | In/Out: Indonesia-Bali Denpasar[商企IP] | Dc: Pemerintah kabupaten klungkung | Status: ✅
+46.166.164.34:8282:http | : | In/Out: Lithuania-Šiauliai County Šiauliai[商企IP] | Dc: Uab cherry servers | Status: ✅
+158.220.123.138:49153:http | : | In/Out: Germany-Nordrhein-Westfalen Düsseldorf[商企IP] | Dc: Contabo gmbh | Status: ✅
+202.47.188.186:4433:http | : | In/Out: Indonesia-East Java Madiun[商企IP] | Dc: Pt ganera infinity network | Status: ✅
+103.152.7.153:8686:http | : | In/Out: Indonesia-Bali Denpasar[商企IP] | Dc: Pemerintah kabupaten klungkung | Status: ✅
+103.152.7.254:8686:http | : | In/Out: Indonesia-Bali Denpasar[商企IP] | Dc: Pemerintah kabupaten klungkung | Status: ✅
+103.152.7.145:8686:http | : | In/Out: Indonesia-Bali Denpasar[商企IP] | Dc: Pemerintah kabupaten klungkung | Status: ✅
+192.154.225.189:8119:http | : | In/Out: United States-Texas Dallas[商企IP] | Dc: Tier.net technologies llc | Status: ✅
+209.7.244.4:5999:http | : | In/Out: United States-Illinois Champaign[商企IP] | Dc: Illinois century network | Status: ✅
+209.7.244.3:5999:http | : | In/Out: United States-Illinois Champaign[商企IP] | Dc: Illinois century network | Status: ✅
+209.7.244.2:5999:http | : | In/Out: United States-Illinois Champaign[商企IP] | Dc: Illinois century network | Status: ✅
+94.156.122.12:8088:http | : | In/Out: Germany-Hessen Frankfurt am Main[商企IP] | Dc: Spacecore solution ltd | Status: ✅
+160.19.84.7:8999:http | : | In/Out: Indonesia-East Java Mojokerto[商企IP] | Dc: Cv cron interdata nusantara | Status: ✅
+154.17.8.103:1680:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Dmit cloud services | Status: ✅
+45.186.6.104:3128:http | : | In/Out: Ecuador-Pichincha Quito[商企IP] | Dc: Perez tito julio cesar(fastnett) | Status: ✅
+192.243.114.207:33333:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: It7 networks inc | Status: ✅
+23.109.163.44:4445:http | : | In/Out: The Netherlands-North Holland Amsterdam[商企IP] | Dc: Servers com ams4 | Status: ✅
+157.66.84.70:8095:http | : | In/Out: Indonesia-East Java Madiun[商企IP] | Dc: Pt. menaksopal lintas nusantara | Status: ✅
+216.125.22.3:5999:http | : | In/Out: United States-Illinois Springfield[商企IP] | Dc: Illinois century network | Status: ✅
+216.125.22.2:5999:http | : | In/Out: United States-Illinois Springfield[商企IP] | Dc: Illinois century network | Status: ✅
+212.24.108.20:11920:http | : | In/Out: Lithuania-Vilniaus apskritis Vilnius[商企IP] | Dc: Uab interneto vizija | Status: ✅
+185.82.98.82:9096:http | : | In/Out: Lebanon-Liban-Nord Tripoli[商企IP] | Dc: Protected pool / Customers pool2 | Status: ✅
+134.122.174.159:20000:http | : | In/Out: Hong Kong-Central and Western Hong Kong[商企IP] | Dc: Ctg server ltd. | Status: ✅
+202.91.35.213:12302:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: Hostsymbol pte. ltd. | Status: ✅
+177.234.245.71:9696:http | : | In/Out: Ecuador-Guayas Guayaquil[商企IP] | Dc: Negocios y telefonia nedetel s.a. | Status: ✅
+103.160.150.51:8191:http | : | In/Out: Indonesia-East Kalimantan Samarinda[商企IP] | Dc: Cv syakir pratama jaya | Status: ✅
+209.174.97.162:5999:http | : | In/Out: United States-Illinois Springfield[商企IP] | Dc: Illinois century network | Status: ✅
+142.171.233.72:8166:http | : | In/Out: United States-California Santa Clarita[商企IP] | Dc: Multacom corporation | Status: ✅
+103.147.35.79:18101:http | : | In/Out: Vietnam-Hanoi[商企IP] | Dc: International data service joint stock company | Status: ✅
+209.174.227.130:5999:http | : | In/Out: United States-Illinois Springfield[商企IP] | Dc: Illinois century network | Status: ✅
+103.147.35.79:17000:http | : | In/Out: Vietnam-Hanoi[商企IP] | Dc: International data service joint stock company | Status: ✅
+103.147.35.79:18000:http | : | In/Out: Vietnam-Hanoi[商企IP] | Dc: International data service joint stock company | Status: ✅
+173.208.162.160:49152:http | : | In/Out: United States-Missouri Kansas City[商企IP] | Dc: Wholesale internet, inc. | Status: ✅
+45.77.2.124:12000:http | : | In/Out: United States-California San Jose[商企IP] | Dc: Constant.com / Cloudflare.com | Status: ✅
+173.208.245.204:22082:http | : | In/Out: United States-Missouri Kansas City[商企IP] | Dc: Wholesale internet, inc. | Status: ✅
+103.190.36.30:443:http | : | In/Out: Vietnam-Hanoi[商企IP] | Dc: Ttk viet nam education technology joint stock company | Status: ✅
+45.82.120.224:1026:http | : | In/Out: Germany-Hessen Hanau am Main[商企IP] | Dc: Rene roeth trading as roeth & beck gbr | Status: ✅
+64.83.246.99:5999:http | : | In/Out: United States-Illinois Carbondale[商企IP] | Dc: Internet assigned numbers authority | Status: ✅
+49.229.100.235:8080:http | : | In/Out: Thailand-Khon Kaen Bangkok[商企IP] | Dc: Advanced info service public company limited | Status: ✅
+104.243.21.223:12345:http | : | In/Out: United States-California Los Angeles[商企IP] | Dc: It7 networks inc / Cloudflare.com | Status: ✅
+103.147.241.2:8283:http | : | In/Out: Indonesia-Central Java Purwokerto[商企IP] | Dc: Institut agama islam negeri purwokerto | Status: ✅
+102.214.167.254:93:http | : | In/Out: Libya-Darnah[商企IP] | Dc: Taqnyat aljeel company for communication and information technology ltd | Status: ✅
+122.99.54.220:8018:http | : | In/Out: Taiwan-Taiwan Taipei[商企IP] | Dc: Homeplus digital co., ltd. / So-net entertainment taiwan limited | Status: ✅
+181.209.117.77:58000:http | : | In/Out: Argentina-Buenos Aires José C. Paz[商企IP] | Dc: Arsat - empresa argentina de soluciones satelitales s.a. | Status: ✅
