@@ -27,6 +27,8 @@ socks5://128.140.46.169:38163#US Germantown AS7018 AT&T Enterprises, LLC [住宅
 socks5://128.140.46.169:36835#US New York City AS21928 T-Mobile USA, Inc. [住宅IP]
 socks5://128.140.46.169:38163#US Tampa AS33363 Charter Communications, Inc [住宅IP]
 socks5://128.140.46.169:59651#US Washington AS7922 Comcast Cable Communications, LLC [住宅IP]
-
-
+25.7.2 辣子鸡
+socks5://lzj:lzj@edtsocks.lzj.pp.ua:14041
+socks5://lzj:lzj@edtsocks-hk.lzj.pp.ua:14041#HK
+socks5://lzj:lzj@edtsocks-sg.lzj.pp.ua:14041#SG
 
