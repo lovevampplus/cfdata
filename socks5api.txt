@@ -49,6 +49,23 @@ https://174.139.126.8:443#United States-California Los Angeles[商企IP]
 https://15.157.75.132:443#Canada-Quebec Montréal[商企IP]
 https://185.235.0.2:443#United Kingdom-England Mendip[住宅IP]
 
+http://194.164.174.115:5222#Spain-Madrid[商企IP]
+http://38.180.9.158:4422#Singapore-Singapore[商企IP]
+http://79.76.39.99:5001#Sweden-Stockholm[商企IP]
+http://93.93.119.19:8002#Spain-Aragon Zaragoza[商企IP]
+http://103.180.117.14:8191#Indonesia[商企IP] http://103.180.117.10:8191#Indonesia[商企IP] 
+http://34.87.109.175:9443#Singapore-Singapore[商企IP] | Dc: Googlecloud | 
+http://34.143.162.66:9443#Singapore-Singapore[商企IP]
+http://35.185.189.242:9443#Singapore-Singapore[商企IP]
+http://149.28.154.82:8812#Singapore-Singapore[商企IP]
+http://66.42.55.231:8812#Singapore-Singapore[商企IP] 
+http://45.8.114.19:3334#Japan-Osaka Fu Osaka[商企IP] 
+http://149.28.141.211:881#2Singapore-Singapore[商企IP]
+http://150.107.31.212:8066#Thailand-Khon Kaen Bangkok[商企IP]
+http://103.59.44.213:2101#Indonesia[商企IP] 
+http://150.241.96.238:8899#Finland-Uusimaa Helsinki[商企IP]
+http://43.204.145.11:8088#India-Maharashtra Mumbai[商企IP]
+http://163.5.254.203:49152#France-Île-de-France Paris[商企IP]
 
 
 
