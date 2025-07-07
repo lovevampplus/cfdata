@@ -1,8 +1,5 @@
 http://95.31.7.139:443#大狗熊
 socks5://lzj:lzj@edtsocks.lzj.pp.ua:14041
-https://174.139.126.8:443#US 
-https://15.157.75.132:443#CA 
-https://185.235.0.2:443#UK
 25.6.22 CM
 socks5://128.140.46.169:13482#AU Sydney AS9443 VOCUS PTY LTD
 socks5://128.140.46.169:40775#CA Toronto AS812 Rogers Communications Canada Inc. [住宅IP]
@@ -43,7 +40,9 @@ https://130.198.120.119:443#澳大利亚-新南威尔士州
 https://130.198.120.120:443#澳大利亚-新南威尔士州
 https://130.198.120.121:443#澳大利亚-新南威尔士州
 https://130.198.120.120:443#澳大利亚-新南威尔士州
-
+https://174.139.126.8:443#United States-California Los Angeles[商企IP] 
+https://15.157.75.132:443#Canada-Quebec Montréal[商企IP]
+https://185.235.0.2:443#United Kingdom-England Mendip[住宅IP]
 
 
 
