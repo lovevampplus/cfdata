@@ -478,6 +478,16 @@
         "fantuanyingshi": {
             "api": "https://www.fantuan.tv/api.php/provide/vod/",
             "name": "饭团影视"
+        }，
+        "lives": {
+        "yang-1989": {
+            "name": "YanG",
+            "url": "https://tv-1.iill.top/m3u/Gather"
+        },
+        "Mursor": {
+            "name": "Mursor",
+            "url": "https://sub.ottiptv.cc/iptv.m3u",
+            "ua": "okHttp/Mod-1.1.0"
         }
     }
 }
