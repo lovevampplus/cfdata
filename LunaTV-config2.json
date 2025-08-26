@@ -487,6 +487,7 @@
         "Mursor": {
             "name": "Mursor",
             "url": "https://sub.ottiptv.cc/iptv.m3u",
+            "ua": "okHttp/Mod-1.1.0"
         }
     }
 }
