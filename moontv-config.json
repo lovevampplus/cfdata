@@ -1,0 +1,59 @@
+{
+    "cache_time": 7200,
+    "api_site": {
+        "api_1": {
+            "name": "TV-1080资源",
+            "api": "https://api.1080zyku.com/inc/api_mac10.php",
+            "detail": "https://api.1080zyku.com"
+        },
+        "api_2": {
+            "name": "AV-155资源",
+            "api": "https://155api.com/api.php/provide/vod",
+            "detail": "https://155api.com"
+        },
+        // ... 其他 api_3 到 api_72 的条目保持不变 ...
+        "api_72": {
+            "name": "AV-黄AV资源",
+            "api": "https://www.pgxdy.com/api/json.php",
+            "detail": "https://www.pgxdy.com"
+        }
+    },
+    "ffzynew": {
+        "api": "https://api.ffzyapi.com/api.php/provide/vod",
+        "name": "非凡影视new",
+        "detail": "http://ffzy5.tv"
+    },
+    "jisu": {
+        "api": "https://jszyapi.com/api.php/provide/vod",
+        "name": "极速资源",
+        "detail": "https://jszyapi.com"
+    },
+    "mozhua": {
+        "api": "https://mozhuazy.com/api.php/provide/vod",
+        "name": "魔爪资源"
+    },
+    // ... 其他独立的资源站点（ffzynew, jisu, 等）...
+    "qiqiqiqi": {
+        "api": "https://www.qiqidys.com/api.php/provide/vod/",
+        "name": "七七影视"
+    },
+    "yingshigongchang": {
+        "api": "https://cj.lziapi.com/api.php/provide/vod/",
+        "name": "影视工厂"
+    },
+    "fantuanyingshi": {
+        "api": "https://www.fantuan.tv/api.php/provide/vod/",
+        "name": "饭团影视"
+    },
+    "lives": {
+        "yang-1989": {
+            "name": "YanG",
+            "url": "https://tv-1.iill.top/m3u/Gather"
+        },
+        "Mursor": {
+            "name": "Mursor",
+            "url": "https://sub.ottiptv.cc/iptv.m3u",
+            "ua": "okHttp/Mod-1.1.0"
+        }
+    }
+}
