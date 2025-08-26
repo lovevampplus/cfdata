@@ -376,6 +376,94 @@
         "api": "https://mozhuazy.com/api.php/provide/vod",
         "name": "魔爪资源"
     },
+    "kauiboziyuan": {
+            "api": "https://gayapi.com/api.php/provide/vod",
+            "name": "快播资源网站"
+        },
+        "xingbaziyuan": {
+            "api": "https://xingba111.com/api.php/provide/vod",
+            "name": "杏吧资源"
+        },
+        "liangziziyuan": {
+            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "name": "量子资源"
+        },
+        "senlinziyuan": {
+            "api": "https://slapibf.com/api.php/provide/vod",
+            "name": "森林资源"
+        },
+        "aiduanjucc": {
+            "api": "https://www.aiduanju.cc/",
+            "name": "爱短剧.cc"
+        },
+        "huaweiba": {
+            "api": "https://huawei8.live/api.php/provide/vod",
+            "name": "华为吧资源"
+        },
+        "taopian": {
+            "api": "https://taopianapi.com/cjapi/sda/vod",
+            "name": "淘片资源"
+        },
+        "hongniuziyuan": {
+            "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+            "name": "红牛资源"
+        },
+        "suonisandian": {
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+            "name": "索尼-闪电资源"
+        },
+        "yayaziyuan": {
+            "api": "https://cj.yayazy.net/api.php/provide/vod",
+            "name": "鸭鸭资源"
+        },
+        "jinyingziyuan": {
+            "api": "https://jyzyapi.com/provide/vod",
+            "name": "金鹰资源采集网"
+        },
+        "fengchao": {
+            "api": "https://api.fczy888.me/api.php/provide/vod",
+            "name": "蜂巢片库"
+        },
+        "jinmaziyuan2": {
+            "api": "https://api.jmzy.com/api.php/provide/vod",
+            "name": "金马资源网"
+        },
+        "dadiziy": {
+            "api": "https://dadiapi.com/api.php/provide/vod",
+            "name": "大地资源网络"
+        },
+        "huangseziy": {
+            "api": "https://hsckzy888.com/api.php/provide/vod",
+            "name": "黄色资源啊啊"
+        },
+        "xiaojiziy": {
+            "api": "https://api.xiaojizy.live/provide/vod",
+            "name": "小鸡资源"
+        },
+        "kauicheziyuan": {
+            "api": "https://caiji.kuaichezy.org/api.php/provide",
+            "name": "快车资源阿"
+        },
+        "xinlangaa": {
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+            "name": "新浪资源阿"
+        },
+        "lajiaoziyu": {
+            "api": "https://apilj.com/api.php/provide",
+            "name": "辣椒资源黄黄"
+        },
+        "youzhidianying": {
+            "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+            "name": "优质资源库1080zyk6.com高清"
+        },
+        "iqiyi": {
+            "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+            "name": "iqiyi资源"
+        },
+        "xibaocaiji": {
+            "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+            "name": "细胞采集黄色"
+        },
     // ... 其他独立的资源站点（ffzynew, jisu, 等）...
     "qiqiqiqi": {
         "api": "https://www.qiqidys.com/api.php/provide/vod/",
