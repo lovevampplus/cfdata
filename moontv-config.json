@@ -1,5 +1,5 @@
 {
-    "cache_time": 7200,
+    "cache_time": 9200,
     "api_site": {
         "api_1": {
             "name": "TV-1080资源",
@@ -464,7 +464,6 @@
             "api": "https://www.xxibaozyw.com/api.php/provide/vod",
             "name": "细胞采集黄色"
         },
-    // ... 其他独立的资源站点（ffzynew, jisu, 等）...
     "qiqiqiqi": {
         "api": "https://www.qiqidys.com/api.php/provide/vod/",
         "name": "七七影视"
